@@ -16,7 +16,7 @@ guides for the new 4th cohort of this program.
 This documentation looks better in GitBook at the following link:
 <https://iog-academy.gitbook.io/plutus-pioneers-program-fourth-cohort/>
  
-## Lectures
+## Lectures 
 
 ### [Lecture 1](https://www.youtube.com/playlist?list=PLNEK_Ejlx3x3xFHJJKdyfo9eB0Iw-OQDd)
 
